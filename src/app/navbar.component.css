@@ -1,0 +1,7 @@
+.brand {width:300px;float:left;}
+.brand h1 {margin:0px;font-size: 20px;}
+nav{width: calc(100% - 300px);margin:0px;padding:0px;float: left;}
+ul {text-align: right;}
+ul, li{margin:0px;padding: 0px;list-style: none;float: right;}
+nav li {float:left;width:auto;}
+nav li a {float:left; padding: 6px 10px;text-decoration: none;color:#000;background-color: #f7f7f7}
